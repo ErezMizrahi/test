@@ -1,3 +1,42 @@
 {
- "name": "erez" 
+    "Villages": [
+        {         
+            "Code": 6000,
+            "Name": "באקה אל ע'רביה",
+            "AreaCode": "4"
+        },
+        {
+            "Code": 864,
+            "Name": "בקוע",
+            "AreaCode": "8"
+        },
+        {
+            "Code": 536,
+            "Name": "פקיעין",
+            "AreaCode": "4"
+        },
+        {
+            "Code": 3612,
+            "Name": "בקעות",
+            "AreaCode": "2"
+        },
+        {
+            "Code": 9200,
+            "Name": "בית שאן",
+            "AreaCode": "4"
+        },
+        {
+                     "Code": 8957,
+            "Name": "בקעת הירדן",
+            "AreaCode": "2"
+        },
+        {
+            "Code": 4001,
+            "Name": "בוקעתא",
+            "AreaCode": "4"
+        }
+    ],
+    "IsSuccessful": true,
+    "ErrorCode": "",
+    "ErrorMessage": ""
 }
