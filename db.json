@@ -1,0 +1,37 @@
+{
+    "responseData": [
+        {
+            "address": "גן השומרון 117",
+            "displayMode": 0,
+            "forCharge": true,
+            "groupCode": 2,
+            "key": 0,
+            "phoneNumber": "8116326",
+            "phonePrefix": "076",
+            "sortCode": 0,
+            "supplierCode": 51,
+            "telefax": false,
+            "text": "פנצ'ריית בונדר הובלות - מתמחים במשאיות",
+            "treeLevel": 0,
+            "villageName": "גן השומרון"
+        },
+        {
+            "address": "החלוץ 3",
+            "displayMode": 0,
+            "forCharge": false,
+            "groupCode": 2,
+            "key": 9361308,
+            "phoneNumber": "6555793",
+            "phonePrefix": "04",
+            "sortCode": 0,
+            "supplierCode": 1,
+            "telefax": false,
+            "text": "זועבי מונדר    ",
+            "treeLevel": 0,
+            "villageName": "חיפה"
+        }
+    ],
+    "IsSuccessful": true,
+    "ErrorCode": "",
+    "ErrorMessage": ""
+}
